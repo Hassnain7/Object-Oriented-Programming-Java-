@@ -1,5 +1,4 @@
-//Name: Qazi Muhammad Hassnain Ali Qureshi
-// Roll number: 0234-BSCS-22
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
